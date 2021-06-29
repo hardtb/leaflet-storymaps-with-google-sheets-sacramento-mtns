@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/
+- Leaflet Map https://hardtb.github.io/leaflet-storymaps-with-google-sheets-sacramento-mtns/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1o2ce6QCcT6gxbQL2WX182WMJO_U6EJ6kGX9nJYtNxI8/edit#gid=0
 
 ## Create Your Own
